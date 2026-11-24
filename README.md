@@ -1,6 +1,6 @@
-## Hi, I'm David Vera
+## Hi, I'm David
 
-**QA Engineer** from Rosario, Argentina · manual and automation testing · testing AI/LLM features
+**QA Engineer** from Argentina · manual and automation testing · testing AI/LLM features
 
 
 ### Featured projects
